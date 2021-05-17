@@ -1,0 +1,10 @@
+footer{
+    background-color: brown;
+    color: crimson;
+}
+
+.footer {
+    padding: 20px; /* Some padding */
+    text-align: center; /* Center text*/
+    background: rgb(165, 50, 50); /* Grey background */
+  }
